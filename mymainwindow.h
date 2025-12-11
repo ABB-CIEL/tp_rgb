@@ -18,7 +18,7 @@ public:
     ~MyMainWindow();
 
 private slots:
-
+    void majCouleur();
 
 private:
     Ui::MyMainWindow *ui;
